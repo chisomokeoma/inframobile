@@ -43,7 +43,7 @@ export default function PartnershipSection() {
               Partner With Us to Build Resilient Systems That Matter
             </h2>
             <p className="text-sm md:text-base lg:text-lg font-normal text-[#E9F4FF] leading-relaxed">
-              Let's work together to turn data into durable impact for
+              Let&apos;s work together to turn data into durable impact for
               communities worldwide.
             </p>
           </AnimatedCard>

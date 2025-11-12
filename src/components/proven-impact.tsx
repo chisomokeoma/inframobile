@@ -11,7 +11,7 @@ export default function ProvenImpact() {
           Proven Impact Across Communities
         </h3>
         <p className="text-sm sm:text-base font-normal text-[#535862] max-w-full sm:max-w-[550px] md:max-w-[610px] text-center leading-relaxed">
-          From Ukraine's healthcare network to clean water initiatives in
+          From Ukraine&apos;s healthcare network to clean water initiatives in
           Nigeria, our modular systems are transforming how essential services
           reach people who need them most.
         </p>
