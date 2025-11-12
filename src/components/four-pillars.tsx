@@ -37,7 +37,7 @@ const pillars: Pillar[] = [
     title: "Hardware & Field Solutions",
     description:
       "Long-term management to keep systems efficient, measurable, and future-ready.",
-    icon: "/images/hardware-bg.png",
+    icon: "/images/pillar4.png",
     // backgroundPattern: "dots",
   },
 ];
